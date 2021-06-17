@@ -1,0 +1,3 @@
+{
+    "files": ["modification_fournisseur.py","new_livraison_dialog.ui","login_dialog.ui","modification_client.py","modification_livraison.py","oldçlivraioson.ui","window_modification_etat_stock.ui","ajout_fournisseur.py","main.py","window_modifier_fournisseur.ui","window.ui","window_modification_client.ui","login_window.ui","fournisseur_window.ui","modification_utilisateur.py","window_modification_utilisateur.ui","nouvelle_livraison.py","login_null.ui","newlivraison_window.ui","login_function.py","modification_etat_stock.py","window_modifier_livraison.ui"]
+}
